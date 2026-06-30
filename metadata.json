@@ -1,0 +1,6 @@
+{
+  "name": "Focus Planner",
+  "description": "A premium, minimalist workspace companion and daily planner with iOS-inspired aesthetics, dark slate task cards, and custom canvas progress rings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

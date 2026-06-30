@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946279528868",
+    "project_id": "vionux-study-os",
+    "storage_bucket": "vionux-study-os.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946279528868:android:e71d6f59f9c8ce7edde931",
+        "android_client_info": {
+          "package_name": "com.aistudio.focusplanner.vzwkpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHGl96bbZiVEmNkdmylbbXdjuwlaQCiKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
